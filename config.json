@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperealidate",
+        "uuid": 3486810,
+        "checksum": "nzstu"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
